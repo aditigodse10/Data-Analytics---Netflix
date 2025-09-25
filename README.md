@@ -6,7 +6,8 @@ This project presents an interactive Power BI dashboard focused on Netflix's ext
 
 ## Preview
 
-![Netflix Movies and TV Shows Dashboard Preview](https://github.com/minhaj-313/Netflix-Movies-and-TV-Shows-Dashboard/blob/main/Netflix%20Movies%20and%20TV%20Shows%20Dashboard%20-%20by%20Shaikh%20Minhaj.png)
+![Netflix Movies and TV Shows Dashboard Preview](<img width="1431" height="802" alt="Netflix Movies and TV Shows Dashboard" src="https://github.com/user-attachments/assets/14ce58e5-74c9-4286-9bf8-05462dfcbc91" />
+)
 
 ## About this Dataset
 
